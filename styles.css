@@ -254,6 +254,12 @@ h2 {
     font-weight: 500;
 }
 
+.italic title {
+
+    font-style: courier;
+    
+    }
+
 .skills-detail {
     display: flex;
     flex-direction: column;
