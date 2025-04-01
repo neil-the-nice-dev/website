@@ -254,11 +254,9 @@ h2 {
     font-weight: 500;
 }
 
-.courier title {
-
-    font-style: courier;
-    
-    }
+.logo-link {
+    font-family: 'Courier New', Courier, monospace;
+}
 
 .skills-detail {
     display: flex;
