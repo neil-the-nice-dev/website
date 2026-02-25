@@ -325,13 +325,10 @@ h2 {
     font-style: italic;
 }
 
-.project-info {
-    padding: 1.5rem;
-}
-
-.project-info h3 {
-    font-size: 1.3rem;
-    margin-bottom: 0.5rem;
+.project-info{
+    font-size: 1.3fr;
+    margin-bottom: 1fr;
+    margin : 20px;
 }
 
 .project-tags {
